@@ -23,29 +23,23 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Adil" />
+ <a href="https://www.linkedin.com/in/adil-harhour-3386391b0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adil"/>
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://www.linkedin.com/in/adil-harhour-3386391b0/" alt="Adil"/>
- </a>
- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Adil" />
- </a>
- <a href="https://twitter.com/alsiam_dev" target="_blank">
+ <a href="https://twitter.com/Derangerrrr" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
+ <a href="https://www.instagram.com/adilletjes/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Adil" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Adil"  />
-  </a> 
 </p>
 <br />
 
 <!-- About Section -->
- # About me
+
+<p> Diligent, enthusiastic, and driven; I'm someone who loves to roll up their sleeves. My passion for software development guides me toward an exciting future as a software developer.
+
+Outside my professional path, you'll often find me in my kitchen, crafting culinary creations for my family. Spending time with friends ranks high on my list, cherishing valuable moments together. This blend of social interactions and my fondness for software development embodies the essence of my multifaceted character and my pursuit of growth as a future software developer. </p>
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
