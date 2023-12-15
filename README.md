@@ -7,7 +7,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am Adil
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="[https://alsiam.com](https://www.linkedin.com/in/adil-harhour-3386391b0/)">Adil Harhour</a></b>
         </samp>
 </h3>
 
