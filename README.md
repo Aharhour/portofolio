@@ -98,4 +98,4 @@ Outside my professional path, you'll often find me in my kitchen, crafting culin
 </a>
 
 
-![Adil's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aharhour&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Adil's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aharhour&custom_title=Adil%20Harhour's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
