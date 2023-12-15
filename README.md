@@ -7,14 +7,14 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am Adil
-                <b><a target="_blank" href="[https://alsiam.com](https://www.linkedin.com/in/adil-harhour-3386391b0/)">Adil Harhour</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/adil-harhour-3386391b0/">Adil Harhour</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="[https://www.google.com/search?q=Al+Siam](https://www.linkedin.com/in/adil-harhour-3386391b0/)">「 Google Me 」</a>
+    <a href="https://www.linkedin.com/in/adil-harhour-3386391b0/">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
