@@ -14,9 +14,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.linkedin.com/in/adil-harhour-3386391b0/">「 Google Me 」</a>
+    <a href="https://www.linkedin.com/in/adil-harhour-3386391b0/">「 linkedin 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a software developer from <b>The Netherlands</b> 」
     <br>
     <br>
   </samp>
@@ -29,9 +29,9 @@
  <a href="https://linkedin.com/in/al-siam" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
+ <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
+ </a>
  <a href="https://twitter.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
